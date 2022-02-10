@@ -12,6 +12,11 @@ function Balance () {
         sum += transaction.amount
     ))
 
+    // const amounts = transactions.map(transaction => transaction.amount)
+
+
+    console.log(typeof(transactions[1].text))
+
     return(
         <>
             <h4>Your Balance</h4>

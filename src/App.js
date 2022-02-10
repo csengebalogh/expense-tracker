@@ -1,7 +1,7 @@
 import './App.css';
 import { Header, Balance, IncomeExpense, NewTransaction, TransactionList } from './components'
 
-import { GlobalProvider } from './context/GlobalState'
+import GlobalProvider from './context/GlobalState'
 
 function App() {
   return (
