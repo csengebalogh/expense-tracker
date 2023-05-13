@@ -1,13 +1,13 @@
-# README
+# Expense Tracker
 
-Simple expense tracker application made with React and React Hooks.
+Simple, responsive expense tracker application made with React.
 
-Note that the source code is from https://github.com/bradtraversy/expense-tracker-react
+You can see your balance as well as your transactions whether it's incomes or expenses. It is possible to add new records at the bottom.
 
-This code might differ slightly from the original final version, I tried to figure out several things alone and I might have come up with different solutions for some problems.
+## Further plans
+- multiple currencies
+- data storage
+- confirm record deletion
+- clear form after submission
+- store date of transaction (for statistics and graphs)
 
-I'm currently working on this as a coding project or challenge, once it's complete and functional, I have multiple ideas on what I want to add as extras, maybe build a nice front-end to practice that as well.
-
-### Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
